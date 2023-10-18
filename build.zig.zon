@@ -3,8 +3,8 @@
     .version = "0.1.0",
     .dependencies = .{
         .extras = .{
-            .url = "https://github.com/nektro/zig-extras/archive/master.tar.gz",
-            .hash = "12203cc9c306e25cafb7ff99a317cb5a402f42dd257fbb26ef6126c7e009742d1712",
+            .url = "https://github.com/fjebaker/zig-extras/archive/master.tar.gz",
+            .hash = "122046b2754f51615914cb8b1812cb03665720282a62a8a4b1680d8fae65fba42b5f",
         } 
     }
 }
